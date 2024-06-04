@@ -3,4 +3,4 @@ def add1(n):
 
     print("This function adds 1 to the input")
 
-    return res
+    return res + 1
