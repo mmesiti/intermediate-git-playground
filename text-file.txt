@@ -4,3 +4,4 @@ that should not cause conflicts
 2nd line
 3rd line
 4th line on branch 1
+5th line on branch rebase-onto-this
